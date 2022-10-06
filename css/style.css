@@ -15,6 +15,8 @@
   height: 100vh;
   width: 100%;
   overflow: hidden;
+  background: url(https://media.discordapp.net/attachments/993658968062828665/1027360893098532884/image.png?width=1197&height=630);
+  filter: blur(0px);
 }
 .container .image {
   position: absolute;
@@ -22,8 +24,6 @@
   width: 100%;
   object-fit: cover;
   z-index: -1;
-  background: url(https://media.discordapp.net/attachments/993658968062828665/1027360893098532884/image.png?width=1197&height=630);
-  filter: blur(0px);
 }
 .container header {
   font-size: 60px;
