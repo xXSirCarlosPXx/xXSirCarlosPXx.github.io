@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Pixelify Sans", sans-serif;
+  font-color: #f9f9f9;
 }
 .container {
   display: flex;
