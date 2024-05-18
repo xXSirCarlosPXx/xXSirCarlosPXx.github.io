@@ -1,9 +1,9 @@
-@import url('../fonts/Minecraft.ttf');
-@import url('../fonts/Minecraft.otf');
+/*@import url('../fonts/Minecraft.ttf');
+@import url('../fonts/Minecraft.otf');*/
 
 @font-face {
     font-family: 'Minecraft';
-    src: local('Minecraft'), url('../fonts/Minecraft.ttf') format('truetype'), url('../fonts/Minecraft.otf') format('opentype');
+    src: local('Minecraft'), url('../fonts/Minecraft.ttf') format('truetype')/*, url('../fonts/Minecraft.otf') format('opentype')*/;
 }                
 
 * {
