@@ -9,7 +9,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Minecraft", sans-serif;
+  font-family: "Minecraft";
   src: url('fonts/Minecraft.ttf');
   font-color: #f9f9f9;
 }
