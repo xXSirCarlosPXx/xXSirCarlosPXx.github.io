@@ -12,6 +12,7 @@
   box-sizing: border-box;
   font-family: 'Minecraft';
   font-color: #f9f9f9;
+  filter: blur(0px);
 }
 .container {
   display: flex;
