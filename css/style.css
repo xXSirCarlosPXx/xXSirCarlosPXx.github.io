@@ -1,12 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
-@import url('https://fonts.cdnfonts.com/css/minecraft-4');
-                
+@import url('fonts/Minecraft.ttf');
+
+@font-face {
+    font-family: 'Minecraft';
+    src: url('fonts/Minecraft.ttf') format('truetype');
+}                
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: "Minecraft", sans-serif;
+  src: url('fonts/Minecraft.ttf');
   font-color: #f9f9f9;
 }
 .container {
