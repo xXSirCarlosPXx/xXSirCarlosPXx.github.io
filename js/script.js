@@ -8,7 +8,7 @@ const secondst = document.querySelector(".seconds .text");
       hourst = document.querySelector(".hours .text");
       dayst = document.querySelector(".days .text");
 
-const countdownDate = new Date('May 31, 2024 00:00:00').getTime();
+const countdownDate = new Date('May 2, 2025 00:00:00').getTime();
 
 let interval = setInterval(function(){
     const now = new Date().getTime();
